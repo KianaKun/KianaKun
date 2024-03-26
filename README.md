@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @KianaKun
-- 👀 I’m interested in Microcontroller And Developing Website
+- 👀 I’m interested in Microcontroller, Developing Website, And DevOps
 - I'd Love to Troubleshooting Hardware And Software 
 - 🌱 I’m currently learning C++, Python, HTML, CSS, JS, Etc.
 - 😄 Pronouns: He
