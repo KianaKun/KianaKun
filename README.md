@@ -6,7 +6,7 @@
 
 
 
-[[Bahasa yang saya gunakan](https://github-readme-stats.vercel.app/api/top-langs/?username=KianaKun&layout=pie)(https://github.com/anuraghazra/github-readme-stats)]
+[![Bahasa yang saya gunakan](https://github-readme-stats.vercel.app/api/top-langs/?username=KianaKun&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 <!---
 KianaKun/KianaKun is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
