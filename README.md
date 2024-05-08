@@ -5,7 +5,7 @@
 -   Pronouns: He
 
 
-[![Bahasa Pemrograman yang sering saya gunakan](https://github-readme-stats.vercel.app/api/top-langs/?username=V205Arduino)](https://github.com/anuraghazra/github-readme-stats)
+[![Bahasa Pemrograman yang sering saya gunakan](https://github-readme-stats.vercel.app/api/top-langs/?username=V205Arduino)](https://github.com/anuraghazra/github-readme-stats) [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=KianaKun)](https://github.com/anuraghazra/github-readme-stats)
 
 [![KianaKun's GitHub stats](https://github-readme-stats.vercel.app/api?username=KianaKun)](https://github.com/anuraghazra/github-readme-stats)
 
