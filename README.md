@@ -4,11 +4,12 @@
 -   I’m currently learning C++, Python, HTML, CSS, JS, Etc.
 -   Pronouns: He
 
-![KianaKun's GitHub stats](https://github-readme-stats.vercel.app/api?username=KianaKun&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+
+[![Bahasa Pemrograman yang sering saya gunakan](https://github-readme-stats.vercel.app/api/top-langs/?username=V205Arduino)](https://github.com/anuraghazra/github-readme-stats)
 
 [![KianaKun's GitHub stats](https://github-readme-stats.vercel.app/api?username=KianaKun)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Bahasa Pemrograman](https://github-readme-stats.vercel.app/api/top-langs/?username=KianaKun&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!---
 KianaKun/KianaKun is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
