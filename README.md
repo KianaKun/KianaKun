@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @KianaKun
+-   Hi, I’m @KianaKun
 -   I’m interested in Microcontroller, Developing Websites, And DevOps
 -   I'd Love to Troubleshooting Hardware And Software 
 -   I’m currently learning C++, Python, HTML, CSS, JS, Etc.
