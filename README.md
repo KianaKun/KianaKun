@@ -1,7 +1,10 @@
 -   Hi, I’m @KianaKun
 -   I’m interested in Microcontroller, Developing Websites, And DevOps
 -   I'd Love to Troubleshooting Hardware And Software 
--   I’m currently learning HTML, CSS, JS, NodeJs Framework such like EJS,Express,Nodemon,NodeRed,Laravel Framework Etc.
+-   Techstack :
+-   Javascript, NodeJS, TypeScript
+-   Framework :
+-   NextJS, Express, Axios REST API
 -   Pronouns: He
 
 
