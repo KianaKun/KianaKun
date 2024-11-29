@@ -7,7 +7,6 @@
 
 
 [![Bahasa Pemrograman yang sering saya gunakan](https://github-readme-stats.vercel.app/api/top-langs/?username=V205Arduino)](https://github.com/anuraghazra/github-readme-stats)
-
 [![KianaKun's GitHub stats](https://github-readme-stats.vercel.app/api?username=KianaKun)](https://github.com/anuraghazra/github-readme-stats)
 
 
