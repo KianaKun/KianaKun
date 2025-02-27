@@ -3,7 +3,7 @@
 -   I'd Love to Troubleshooting Hardware And Software 
 -   Techstack : Javascript, NodeJS, TypeScript, Kotlin, Java
 -   Framework : NextJS, Express, Axios REST API
--   Pronouns: He
+-   Pronouns: He/Hang Ho/Heng
 
 
 [![Bahasa Pemrograman yang sering saya gunakan](https://github-readme-stats.vercel.app/api/top-langs/?username=V205Arduino)](https://github.com/anuraghazra/github-readme-stats)
