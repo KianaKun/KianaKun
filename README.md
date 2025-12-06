@@ -1,7 +1,7 @@
 -   Hi, I’m @KianaKun
 -   I’m interested in Microcontroller, Developing Websites, And DevOps
--   I'd Love to Troubleshooting Hardware And Software 
--   Techstack : Javascript, NodeJS, TypeScript, Kotlin, Java
+-   I'd Love to Troubleshooting Hardware And Software and Also Playing Games
+-   Techstack : Javascript, NodeJS, TypeScript
 -   Framework : NextJS, Express, Axios REST API
 -   Pronouns: He/Hang Ho/Heng
 
